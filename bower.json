@@ -1,0 +1,17 @@
+{
+  "name": "jQueryAspectRatioKeeper",
+  "homepage": "https://github.com/frontid/jQueryAspectRatioKeeper",
+  "authors": [
+    "capynet <marcelo@front.id>"
+  ],
+  "description": "Keeps the original proportion (aspect ratio) for any HTML tag.",
+  "main": "aspectRatioKeeper.jquery.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
