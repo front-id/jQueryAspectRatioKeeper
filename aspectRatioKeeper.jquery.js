@@ -58,5 +58,3 @@
   }
 
 }(window.jQuery);
-
-$('.sample').aspectRatioKeeper()
