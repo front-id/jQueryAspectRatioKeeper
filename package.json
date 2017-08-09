@@ -1,5 +1,5 @@
 {
-  "name": "jQueryAspectRatioKeeper",
+  "name": "jquery-aspect-ratio-keeper",
   "version": "1.0.1",
   "description": "Keeps the original proportion (aspect ratio) for any HTML tag",
   "main": "aspectRatioKeeper.jquery.js",
